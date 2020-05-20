@@ -1,2 +1,5 @@
-# traffic-sign-recognition
-Traffic Sign Recognition System with Deep Learning(CNN)
+# Traffic Sign Recognition
+
+Todo:
+- make readme
+- add model summaries
